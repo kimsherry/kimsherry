@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kimsherry</h1>
-<h3 align="center">• 🎓 Student | 📚 Always learning • Learning to code, one bug at a time. • 💡 Exploring new technologies & ideas. • Code, coffee, repeat. ☕💻 • 📖 Still a student, but coding like a pro!</h3>
+<h3 align="center">• 🎓 Student | 📚 Always learning • Learning to code, one bug at a time. • 💡 Exploring new technologies & ideas. • Code, coffee, repeat. ☕💻 • 📖 Still a student, but my skill is pro! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
