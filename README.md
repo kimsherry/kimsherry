@@ -32,8 +32,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimsherry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
----
-
-### ⚡ Fun Fact
-> I don’t just chase bugs—I collect them like Pokémon.
