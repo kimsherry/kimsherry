@@ -8,7 +8,7 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on improving my skills in **Python**, **Java**, and **JavaScript**
+- 🔭 I’m currently working on improving my skills in **Python**, **Java**, **C**, **C#**, **Dart** and **JavaScript**
 - 🌱 Constantly learning and building cool things
 - 🛠️ Tech tinkerer: from Arduino boards to backend logic
 - 📚 I believe in learning by doing (and debugging... a lot)
