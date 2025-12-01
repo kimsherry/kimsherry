@@ -24,3 +24,9 @@
 ### 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsherry&show_icons=true&theme=radical)
 
+---
+### 😎 Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsherry&layout=compact&langs_count=6&card_width=320)
+
+
