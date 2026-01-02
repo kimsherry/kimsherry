@@ -10,7 +10,7 @@
 
 ### 💻 About Me
 - Mainly coding in **C** and **Python**
-- Building **Bots**, **APIs**, **Utilities** and experimental projects
+- Building **Discordbots**, **APIs**, **Utilities** and experimental projects
 - Learning system-level programming & automation
 
 ---
