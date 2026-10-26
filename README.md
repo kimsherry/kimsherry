@@ -1,5 +1,5 @@
 # 안녕하세요! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=I'm+kimsherry;Welcome+to+my+GitHub!;My+mail+admin@kimsherry.xyz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=I'm+kimsherry;Welcome+to+my+GitHub!;My+mail+sherrydev09@proton.me)](https://git.io/typing-svg)
 
 ---
 ### 🛠 Tech Stack
@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Contact
-[![Email](https://img.shields.io/badge/Email-8B0000?style=flat-square&logo=protonmail&logoColor=white)](mailto:admin@kimsherry.xyz)
+[![Email](https://img.shields.io/badge/Email-8B0000?style=flat-square&logo=protonmail&logoColor=white)](mailto:sherrydev09@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimsherry)
 
 ---
