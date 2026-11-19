@@ -38,16 +38,24 @@
 
 *   **📈 Continuous Learning**
     *   Deepening expertise in **System-Level Programming**, **Infrastructure Automation**, and modern full-stack architectures.
----
 
+---
+### 🌐 Projects & Services
+
+*   **[CHUNITHM Info](https://chuni.info)** — Rhythm game rating calculator, play data tracker, and chart database utility for CHUNITHM players.
+    *   `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL`
+*   **[SOUND VOLTEX Info](https://sdvx.info/)** — Volforce analyzer, score management, and song database web service for SOUND VOLTEX players.
+    *   `Next.js` `TypeScript` `Tailwind CSS` `Python` `Linux`
+
+---
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-8B0000?style=flat-square&logo=protonmail&logoColor=white)](mailto:sherrydev09@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimsherry)
 
 ---
-
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=kimsherry&show_icons=true&hide_border=true&theme=radical" alt="kimsherry's GitHub Stats" />
   <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=kimsherry&layout=compact&hide_border=true&theme=radical" alt="kimsherry's Top Languages" />
 </div>
+
