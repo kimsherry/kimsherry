@@ -55,7 +55,7 @@
 ---
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=kimsherry&show_icons=true&hide_border=true&theme=radical" alt="kimsherry's GitHub Stats" />
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=kimsherry&layout=compact&hide_border=true&theme=radical" alt="kimsherry's Top Languages" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=kimsherry&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="kimsherry's GitHub Stats" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=kimsherry&layout=compact&hide_border=true&theme=radical&count_private=true" alt="kimsherry's Top Languages" />
 </div>
 
